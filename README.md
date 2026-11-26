@@ -25,10 +25,13 @@ Java学習記録用リポジトリです。
 ⬜ chapter10_例外処理
 
 ## 学習予定
+【次のステップ】
 
-- Java
-- Git/GitHub
-- Spring Boot
-- React
+⬜ chapter11_Git基礎
+⬜ chapter12_GitHub基礎
+⬜ chapter13_HTML_CSS
+⬜ chapter14_JavaScript
+⬜ chapter15_React
+⬜ chapter16_SpringBoot
 
 作成者: azusay0610-design

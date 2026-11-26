@@ -1,8 +1,12 @@
-# Java学習記録
+# Java Study
 
-使用教材
-- スッキリわかるJava入門 第5版
+Java学習記録用リポジトリです。
 
-目標
-- Java基礎習得
-- Webエンジニア就職
+## 学習内容
+
+- Java
+- Git/GitHub
+- Spring Boot
+- React
+
+作成者: azusay0610-design

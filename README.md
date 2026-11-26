@@ -18,9 +18,9 @@ Java学習記録用リポジトリです。
 
 ⬜ chapter07_オブジェクト
 
-⬜ chapter08_List
+⬜ chapter08_Listコレクション
 
-⬜ chapter09_Map
+⬜ chapter09_Mapコレクション
 
 ⬜ chapter10_例外処理
 

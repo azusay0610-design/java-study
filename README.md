@@ -2,7 +2,29 @@
 
 Java学習記録用リポジトリです。
 
-## 学習内容
+## 学習進捗
+
+✅ chapter01_Java基礎
+
+⬜ chapter02_変数
+
+⬜ chapter03_if文
+
+⬜ chapter04_for文
+
+⬜ chapter05_メソッド
+
+⬜ chapter06_クラス
+
+⬜ chapter07_オブジェクト
+
+⬜ chapter08_List
+
+⬜ chapter09_Map
+
+⬜ chapter10_例外処理
+
+## 学習予定
 
 - Java
 - Git/GitHub
